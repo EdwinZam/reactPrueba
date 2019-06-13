@@ -1,0 +1,22 @@
+{
+	"todos":[
+	{
+		"tittle": "Task 1",
+		"responsible": "Edw",
+		"description": "lorem impsum",
+		"priority":"low"
+	},
+	{
+		"tittle": "Task 2",
+		"responsible": "Arm",
+		"description": "lorem impsum 2",
+		"priority":"medium"
+	},
+	{
+		"tittle": "Task 1",
+		"responsible": "zam",
+		"description": "lorem impsum 3",
+		"priority":"high"
+	}
+	]
+}
